@@ -7,7 +7,7 @@ const config = {
         USERNAME: "root",
         PASSWORD: "admin",
         PORT: "3306",
-        HOST: "120.78.75.213"
+        HOST: "localhost"
     }
 };
 module.exports = config;
